@@ -28,4 +28,4 @@ Published Officially on the following Platforms:
 [4]: https://steamcommunity.com/sharedfiles/filedetails/?id=2134308522
 [5]: https://steamcommunity.com/sharedfiles/filedetails/?id=2748889667
 [6]: https://github.com/Official-Husko/Single-Plant-Texture
-[7]: https://example.com
+[7]: https://steamcommunity.com/sharedfiles/filedetails/?id=3156446585
