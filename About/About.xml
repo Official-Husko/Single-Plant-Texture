@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Husko's Single Plant Textures</name>
+	<packageId>husko.patches.sptpatches</packageId>
+	<url></url>
+	<modVersion IgnoreIfNoMatchingField="True">1.0.0</modVersion>
+	<supportedVersions>
+		<li>1.4</li>
+	</supportedVersions>
+	<author>Husko</author>
+	<modDependencies>
+	</modDependencies>
+	<loadAfter>
+		<li>vanillaexpanded.vplantse</li>
+		<li>vanillaexpanded.vplantsemore</li>
+		<li>dismarzero.vgp.vgpvegetablegarden</li>
+		<li>dismarzero.vgp.vgpgardenmedicine</li>
+	</loadAfter>
+	<description>Patches plants from mods to only use 1 texture. Should even give a performance
+		boost.
+
+		&lt;b&gt;Supported:&lt;/b&gt;
+
+		VGP Garden Medicine (dismarzero.vgp.vgpgardenmedicine)
+		VGP Vegetable Garden (dismarzero.vgp.vgpvegetablegarden)
+		Vanilla Plants Expanded (vanillaexpanded.vplantse)
+		Vanilla Plants Expanded - More Plants (vanillaexpanded.vplantsemore)
+
+	</description>
+</ModMetaData>

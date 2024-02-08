@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>VGP Garden Medicine</li>
+    </mods>
+    <Operation Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="PlantDandelionPatch"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+      </operations>
+    </Operation>
+  </Operation>
+</Patch>

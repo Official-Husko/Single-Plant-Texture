@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Vanilla Plants Expanded - More Plants</li>
+    </mods>
+    <Operation Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VCE_Lettuce"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VCE_BrusselsSprout"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VCE_Cassava"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VCE_SweetPotato"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VCE_Radish"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VCE_Buckwheat"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VCE_Peanut"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VCE_PeanutSecondary"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VCE_Sunflower"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VCE_Garlic"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+        <li Class="PatchOperationReplace">
+          <xpath>/Defs/ThingDef[defName="VCE_Carrot"]/plant/maxMeshCount</xpath>
+          <value>
+            <maxMeshCount>1</maxMeshCount>
+          </value>
+        </li>
+
+      </operations>
+    </Operation>
+  </Operation>
+</Patch>
