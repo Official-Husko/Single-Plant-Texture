@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-  <identifier>husko.weapons.gewehr41</identifier>
+  <identifier>husko.patches.sptpatches</identifier>
   <version>1.0.0</version>
   <targetVersions>
     <li>1.4.0</li>
@@ -12,9 +12,11 @@
   <loadBefore>
   </loadBefore>
   <loadAfter>
-    <li>Ludeon.RimWorld</li>
-    <li>CETeam.CombatExtended</li>
+		<li>vanillaexpanded.vplantse</li>
+		<li>vanillaexpanded.vplantsemore</li>
+		<li>dismarzero.vgp.vgpvegetablegarden</li>
+		<li>dismarzero.vgp.vgpgardenmedicine</li>
   </loadAfter>
-  <manifestUri>https://github.com/Official-Husko/Gewehr-41/blob/main/About/Manifest.xml</manifestUri>
-  <downloadUri>https://github.com/Official-Husko/Gewehr-41/releases</downloadUri>
+  <manifestUri>https://github.com/Official-Husko/Single-Plant-Texture/blob/main/About/Manifest.xml</manifestUri>
+  <downloadUri>https://github.com/Official-Husko/Single-Plant-Texture/releases</downloadUri>
 </Manifest>

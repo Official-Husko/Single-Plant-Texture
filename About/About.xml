@@ -16,7 +16,7 @@
 		<li>dismarzero.vgp.vgpvegetablegarden</li>
 		<li>dismarzero.vgp.vgpgardenmedicine</li>
 	</loadAfter>
-	<description>Patches plants from mods to only use 1 texture. Should even give a performance
+	<description>Patches plants from mods to only use 1 texture. Should even give a slight performance
 		boost.
 
 		&lt;b&gt;Supported:&lt;/b&gt;
